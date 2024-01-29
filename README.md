@@ -23,8 +23,25 @@ This dashboard would be a critical tool for GEI, helping them to make data-drive
 decisions and recommendations.
 
 The project was carried out in a distributed environment in the Cloud, which
-will allow for efficient data processing and collaboration among team members.
-
-<img width="878" alt="data_pipeline_architecture" src="https://github.com/igorlangoni/final_project_data_eng_makers/assets/123383171/8ac50390-d53e-405f-abbf-89adbd668f91">
+will allow for efficient data processing and collaboration among team members. <br> <br>
 
 The tools stack for this project: Python, SQL, Apache Airflow, AWS EC2, AWS RDS, Flask, Git. 
+
+## Architecture 
+
+<img width="1146" alt="pipeline_architecture_logos" src="https://github.com/igorlangoni/final_project_data_eng_makers/assets/123383171/7b5adaf4-da7b-45b4-bd4d-7303bfca7373">
+
+## DAG
+
+<img width="1907" alt="dag" src="https://github.com/igorlangoni/final_project_data_eng_makers/assets/123383171/28b3ac5d-bf99-4e78-a972-da01f5526bfb">
+
+## Dashboard
+
+<img width="1907" alt="dashboard" src="https://github.com/igorlangoni/final_project_data_eng_makers/assets/123383171/4172991a-c92d-474b-8397-612fcd4e72d9">
+
+### Collaborators
+
+- [@jdench1989](https://github.com/jdench1989)
+- [@Gin-71](https://github.com/Gin-71)
+- [@NikStef18](https://github.com/NikStef18)
+- [@Hilary-Smith-98](https://github.com/Hilary-Smith-98)
